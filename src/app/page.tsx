@@ -1,7 +1,7 @@
-import Image from "next/image";
+import ButtonGenerateLink from "./ButtonGenerateLink";
 
 export default function Home() {
   return (
-    <button></button>
+    <ButtonGenerateLink />
   );
 }
